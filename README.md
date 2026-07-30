@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👯 I'm looking to collaborate on: full-stack web apps (React/Node) and Android apps (Kotlin + Jetpack Compose), especially sustainability/civic-tech tools<br>- 🤝 I'm looking for help with: compiler/VM optimization — I'm building PebbleVM, a custom scripting language with its own bytecode VM<br>- 🌱 I'm currently learning: compiler design and language internals<br>- 💬 Ask me about: React/Node full-stack systems, Android with Jetpack Compose, or building interpreters and virtual machines from scratch<br>- ⚡ Fun fact: I built a ride-pooling platform (CabLog) with JWT-based role access and Docker deployment during my internship at Amul (GCMMF)
-
+- 👯 I'm looking to collaborate on: full-stack web apps (React/Node) and Android apps (Kotlin + Jetpack Compose), especially sustainability/civic-tech tools<br>- 🤝 I'm looking for help with: compiler/VM optimization — I'm building PebbleVM, a custom scripting language with its own bytecode VM<br>- 🌱 I'm currently learning: compiler design and language internals<br>- 💬 Ask me about: React/Node full-stack systems, Android with Jetpack Compose, or building interpreters and virtual machines from scratch<br>- 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya Surse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasurse42@gmail.com) 
