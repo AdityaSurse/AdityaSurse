@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aditya. I’m an aspiring embedded software engineer with a strong interest in how machine learning works under the hood and how it can run on tiny hardware.
+Hi, I’m Aditya. I’m an aspiring software engineer with a strong interest in how machine learning works under the hood and how it can run on tiny hardware.
 
 I like building things from scratch to understand them properly, whether that’s a neural network engine in Python or a small project on a microcontroller. Right now I’m exploring embedded systems, deep learning fundamentals, and everything in between.
 
