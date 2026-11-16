@@ -1,7 +1,7 @@
 #  About Me:
 Hi, I’m Aditya. I’m an aspiring software engineer with a strong interest in how machine learning works under the hood.
 
-I like building things from scratch to understand them properly, whether that’s a neural network engine in Python or a small project on a microcontroller.
+
 
 ##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityasurse42@gmail.com) 
